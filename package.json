@@ -1,0 +1,19 @@
+{
+  "name": "e2g-api-node-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon node index.js"
+  },
+  "author": "Cristian Turcios",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.3.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
